@@ -1,5 +1,8 @@
 # exercise_networknamespace
 
+![](PXL_20220107_092251590.jpg)
+
+
 ## Set up
 
 ```
